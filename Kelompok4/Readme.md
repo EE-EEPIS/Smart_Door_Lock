@@ -53,10 +53,6 @@ Special thanks to the following resources and contributors:
 5. Muhtarum Yusuf (Electrical Engineer Lead)
 6. Muhammad Nur Gusnaidi (Electrical Engineer)
 
-## License
-
-This project is licensed under the [insert license name here]. See the LICENSE file for more information.
-
 ## Link
 
 [Proposal](https://1drv.ms/w/s!AttJSnVuKrAWge01SvbzTsWiWKPeXA)
