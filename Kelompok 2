@@ -1,3 +1,21 @@
-Untuk file proposal
-https://docs.google.com/document/d/1ULl8Qj3B_V7-vi-czCpFBf9XHeCEZMFtgqfahbafefY/edit?usp=drivesdk
+Kelompok 2
+Judul : 
+Pemanfaatan Sensor RFID sebagai Smart Door Lock berbasis IOT
 
+Anggota :
+1. Faiz Surya Ferdinand   / 2121600031 (Project Manager)
+2. Ridho Akbarilah Zaim   / 2121600036 (Programmer)
+3. Davito Djohan Nur D.   / 2121600039 (Programmer)
+4. Michael Adi Suryanto   / 2121600041 (Mekanik)
+5. Syahrul Nur Huda       / 2121600045 (Elektrik)
+6. Moch. Kamil Amrul Haq  / 2121600054 (Programmer)'
+
+Fitur 
+-Kartu RFID sebagai kunci masuk utama
+-Terhubung pada telegram untuk mengontrol pintu dari jarak jauh
+
+Target
+Berhasil mengenali kartu RFID dan mendapatkan pemberitahuan dari BOT telegram lalu pintu dapat terbuka
+
+Untuk File Proposal
+https://docs.google.com/document/d/1ULl8Qj3B_V7-vi-czCpFBf9XHeCEZMFtgqfahbafefY/edit?usp=drivesdk
